@@ -1,4 +1,4 @@
-# data-bias-assignment
+# Data Bias Assignment
 
 In this project, I tested the Perspective API released by Google Jigsaw for biases, specifically, biases related to the length of the text. My hypothesis is that the Perspective API will make more mistakes in assessing the toxicity of a long piece of text compared to a short piece of text. I tested using a threshold of 0.45, or 45%, as the toxicity score needed to determine a comment to be toxic. 
 
